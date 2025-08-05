@@ -1,7 +1,7 @@
-<img src="[https://64.media.tumblr.com/1e59432e5fe2d7942df39fdd0223d294/9ec5a9ae5ba9f7db-ae/s1280x1920/8f45c6df3adc9f1a74b58a275b587982b5de8abc.gif]" alt="MasterHead" width="800"/>
+<img src="https://64.media.tumblr.com/1e59432e5fe2d7942df39fdd0223d294/9ec5a9ae5ba9f7db-ae/s1280x1920/8f45c6df3adc9f1a74b58a275b587982b5de8abc.gif" alt="MasterHead" width="800"/>
 <h1 align="center">Hi 👋, I'm Saurabh</h1>
 <h3 align="center">A passionate developer from India</h3>
-<img align="right" alt="Coding" width="400" src="">
+
 
 - 🌱 I’m currently learning **Frameworks & Networking**
 
